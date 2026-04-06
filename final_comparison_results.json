@@ -1,0 +1,18 @@
+{
+    "supervised": {
+        "f1": 0.78,
+        "accuracy": 0.85
+    },
+    "unsupervised": {
+        "clusters": 3,
+        "silhouette": 0.45
+    },
+    "semi_supervised": {
+        "f1": 0.83,
+        "accuracy": 0.83
+    },
+    "pu_learning": {
+        "f1": 0.81,
+        "accuracy": 0.81
+    }
+}
